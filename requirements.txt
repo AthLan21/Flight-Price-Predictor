@@ -16,6 +16,7 @@ entrypoints==0.4
 et-xmlfile==1.1.0
 executing==0.8.3
 Flask==2.0.3
+Flask-Cors==3.0.10
 fonttools==4.30.0
 gunicorn==20.1.0
 ipykernel==6.9.1
